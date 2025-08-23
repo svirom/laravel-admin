@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Home</title>
+        <title>About</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -54,7 +54,7 @@
             <h1 class="text-4xl/normal font-bold text-slate-800">Hello, Homepage!!!</h1>
         </main> --}}
 
-        <div data-react-component="Home"></div>
+        <div data-react-component="About"></div>
         
 
         @if (Route::has('login'))
